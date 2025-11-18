@@ -16,20 +16,16 @@ This repository contains the full Markdown content, assets, and configuration us
 - **Version Control:** GitHub
 
 ---
+## 📂 Project Structure  
 
-## 📂 Project Structure
-
-/
-├── content/ # Blog posts, notes, documentation (Markdown)
-├── static/ # Images, screenshots, files
-├── layouts/ # Custom layouts & overrides
-├── assets/ # SCSS, JS, theme assets
-├── archetypes/ # Content templates
-├── hugo.toml # Site configuration
-└── themes/ # Hugo theme(s)
-
-yaml
-Copy code
+/  
+├── content/         # Markdown content (posts, docs)  
+├── static/          # Static assets (images, files)  
+├── layouts/         # Custom Hugo layouts  
+├── assets/          # Theme assets (CSS, JS)  
+├── archetypes/      # Hugo content templates  
+├── hugo.toml        # Site config  
+└── themes/           # Hugo themes  
 
 ---
 
@@ -37,7 +33,7 @@ Copy code
 
 Make sure you have Hugo Extended installed.
 
-```bash
+
 hugo server -D
 Visit your site at:
 
