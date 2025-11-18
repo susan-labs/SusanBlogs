@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susan&#39;s Blogs</title>
+    <link>/</link>
+    <description>Recent content on Susan&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 3rd template</title>
+      <link>/posts/my-3rd-post/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/my-3rd-post/</guid>
+      <description>&lt;p&gt;Hello guys,&#xA;a test blog&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First post</title>
+      <link>/posts/my-first-blog-post/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/my-first-blog-post/</guid>
+      <description>&lt;p&gt;Hi Guys,&#xA;this is my first post,&lt;/p&gt;&#xA;&lt;p&gt;thanks for checking me out.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My second post</title>
+      <link>/posts/my-second-post-test./</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/my-second-post-test./</guid>
+      <description>&lt;p&gt;hello guys this is my second post test&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020251118221628.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
